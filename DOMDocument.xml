@@ -1,0 +1,226 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1080" frameRate="30" currentTimeline="1" xflVersion="22.02" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 22.0 build 191" majorVersion="22" buildNumber="191" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="540" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="C4D3B3077F0A9545AE7639F7F4B81F39">
+     <folders>
+          <DOMFolderItem name="Smoke__assets__" itemID="5f6dbeef-00000495"/>
+     </folders>
+     <symbols>
+          <Include href="Smoke.xml" itemIcon="1" loadImmediate="false" itemID="5eb42b47-000003c8" lastModified="1589288864"/>
+          <Include href="Smoke__assets__/SmokeCloud.xml" itemIcon="1" loadImmediate="false" itemID="5d005318-0000031b" lastModified="1540922272"/>
+          <Include href="Smoke__assets__/SmokeCloud_Ani.xml" itemIcon="1" loadImmediate="false" itemID="5bd89ba7-0000027f" lastModified="1560302947"/>
+          <Include href="Smoke__assets__/SmokeClouds.xml" itemIcon="1" loadImmediate="false" itemID="5d005490-00000336" lastModified="1560302806"/>
+          <Include href="Symbol 1.xml" loadImmediate="false" itemID="6aec18ff-0000013b" lastModified="1793857791"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" currentFrame="29" layerDepthEnabled="true">
+               <layers>
+                    <DOMLayer name="Smoke" color="#FF0000" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="29" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="29" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Smoke" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="1523.6" ty="815.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="181.7" y="212.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Smoke" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="30" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Smoke" selected="true" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="1547.6" ty="773.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="181.7" y="212.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Smoke" color="#669900" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="30" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Smoke" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="1389.55" ty="771.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="181.7" y="212.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Smoke" color="#009999" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="29" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="29" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Smoke" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="1403.55" ty="767.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="181.7" y="212.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Smoke" color="#FF4FFF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="30" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Smoke" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="661.35" ty="731.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="181.7" y="212.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Smoke" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="772.4" ty="735.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="181.7" y="212.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Smoke" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="884.4" ty="759.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="181.7" y="212.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Smoke" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="955.95" ty="759.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="181.7" y="212.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Smoke" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="884.4" ty="759.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="181.7" y="212.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Smoke" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="712.2" ty="759.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="181.7" y="212.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Smoke" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="829.25" ty="787.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="181.7" y="212.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Smoke" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="897.45" ty="641.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="181.7" y="212.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Smoke" color="#FF800A" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="29" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="29" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Smoke" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="691.4" ty="607.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="181.7" y="212.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer_2" color="#9933CC" animationType="motion object">
+                         <frames>
+                              <DOMFrame index="0" duration="30" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195" propagateRotMap="[0]" propagateScaleXMap="[1]" propagateScaleYMap="[1]" propagateSkewXMap="[0]" propagateSkewYMap="[0]">
+                                   <motionObjectXML><AnimationCore TimeScale="30000" Version="1" duration="30000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.5" xformPtYOffsetPct="0.5" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-672.15" next="0,-672.15" previous="0,-672.15" roving="0" timevalue="29000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1">
+                                             <matrix>
+                                                  <Matrix tx="946.55" ty="386.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="71" y="186.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer_1" color="#00FFFF">
+                         <frames>
+                              <DOMFrame index="0" duration="30" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!40 17044|38410 17044!38410 17044|38410 21645!38410 21645|40 21645!40 21645|40 17044"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

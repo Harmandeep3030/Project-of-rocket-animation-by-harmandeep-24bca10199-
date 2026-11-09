@@ -1,0 +1,158 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Smoke__assets__/SmokeCloud_Ani" itemID="5bd89ba7-0000027f" symbolType="graphic" lastModified="1560302947">
+  <timeline>
+    <DOMTimeline name="SmokeCloud_Ani" currentFrame="79" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_2_copy_copy" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="69" tweenType="motion" useSingleEaseCurve="false" motionTweenSnap="true" hasCustomEase="true" keyMode="22017">
+              <tweens>
+                <CustomEase target="position">
+                  <Point/>
+                  <Point x="0.215" y="0.61"/>
+                  <Point x="0.355" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+                <CustomEase target="color">
+                  <Point/>
+                  <Point x="0.55" y="0.055"/>
+                  <Point x="0.675" y="0.19"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+                <Ease target="position" method="cubicOut"/>
+                <Ease target="color" method="cubicIn"/>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Smoke__assets__/SmokeCloud" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.511962890625" d="0.511962890625" tx="-260.85" ty="-276.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="48.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="79" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Smoke__assets__/SmokeCloud" symbolType="graphic" centerPoint3DX="127.25" centerPoint3DY="-380.25" loop="loop">
+                  <matrix>
+                    <Matrix a="3.45574951171875" d="3.45574951171875" tx="-43.5" ty="-380.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="48.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2_copy" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" duration="69" tweenType="motion" useSingleEaseCurve="false" motionTweenSnap="true" hasCustomEase="true" keyMode="22017">
+              <tweens>
+                <CustomEase target="position">
+                  <Point/>
+                  <Point x="0.215" y="0.61"/>
+                  <Point x="0.355" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+                <CustomEase target="color">
+                  <Point/>
+                  <Point x="0.55" y="0.055"/>
+                  <Point x="0.675" y="0.19"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+                <Ease target="position" method="cubicOut"/>
+                <Ease target="color" method="cubicIn"/>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Smoke__assets__/SmokeCloud" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.511962890625" d="0.511962890625" tx="-248.75" ty="-270.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="48.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="75" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Smoke__assets__/SmokeCloud" selected="true" symbolType="graphic" centerPoint3DX="-30.25" centerPoint3DY="-282.8" loop="loop">
+                  <matrix>
+                    <Matrix a="3.45574951171875" d="3.45574951171875" tx="-201" ty="-282.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="48.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="69" tweenType="motion" useSingleEaseCurve="false" motionTweenSnap="true" hasCustomEase="true" keyMode="22017">
+              <tweens>
+                <CustomEase target="position">
+                  <Point/>
+                  <Point x="0.215" y="0.61"/>
+                  <Point x="0.355" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+                <CustomEase target="color">
+                  <Point/>
+                  <Point x="0.55" y="0.055"/>
+                  <Point x="0.675" y="0.19"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+                <Ease target="position" method="cubicOut"/>
+                <Ease target="color" method="cubicIn"/>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Smoke__assets__/SmokeCloud" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.511962890625" d="0.511962890625" tx="-259.25" ty="-271.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="48.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Smoke__assets__/SmokeCloud" symbolType="graphic" centerPoint3DX="319.2" centerPoint3DY="-328.3" loop="loop">
+                  <matrix>
+                    <Matrix a="3.45574951171875" d="3.45574951171875" tx="148.4" ty="-328.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="48.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
